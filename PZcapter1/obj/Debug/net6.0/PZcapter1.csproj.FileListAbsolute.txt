@@ -1,0 +1,15 @@
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\bin\Debug\net6.0\PZcapter1.exe
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\bin\Debug\net6.0\PZcapter1.deps.json
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\bin\Debug\net6.0\PZcapter1.runtimeconfig.json
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\bin\Debug\net6.0\PZcapter1.dll
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\bin\Debug\net6.0\PZcapter1.pdb
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\obj\Debug\net6.0\PZcapter1.csproj.AssemblyReference.cache
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\obj\Debug\net6.0\PZcapter1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\obj\Debug\net6.0\PZcapter1.AssemblyInfoInputs.cache
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\obj\Debug\net6.0\PZcapter1.AssemblyInfo.cs
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\obj\Debug\net6.0\PZcapter1.csproj.CoreCompileInputs.cache
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\obj\Debug\net6.0\PZcapter1.dll
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\obj\Debug\net6.0\refint\PZcapter1.dll
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\obj\Debug\net6.0\PZcapter1.pdb
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\obj\Debug\net6.0\PZcapter1.genruntimeconfig.cache
+C:\Users\nikgu\source\repos\PZcapter1\PZcapter1\obj\Debug\net6.0\ref\PZcapter1.dll
